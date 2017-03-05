@@ -1,7 +1,7 @@
 import java.io.File;
 public class EvacPlanning {
 	public static void main(String[] args) {
-		//File sampleFile = new File("/Users/homanaren/Documents/Plot/mrccpCityFinal.txt");
+		
 		
 		if (args.length ==0){
 			//System.out.println("accepts arg1: filename - Abosulte or Releative path");
